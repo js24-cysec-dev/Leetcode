@@ -1,0 +1,52 @@
+{
+  "solves": [
+    {
+      "date": "2026-11-25",
+      "slug": "search-insert-position",
+      "title": "Search Insert Position",
+      "difficulty": "Easy",
+      "patterns": [],
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "essence": "Analysis unavailable",
+      "approach": "Unknown",
+      "time_complexity": "Unknown",
+      "path": "2026/11/2026-11-25_search-insert-position"
+    }
+  ],
+  "topics": {
+    "array": 1,
+    "binary-search": 1
+  },
+  "difficulty": {
+    "Easy": 1,
+    "Medium": 0,
+    "Hard": 0
+  },
+  "streak": {
+    "current": 1,
+    "best": 1,
+    "last_date": "2026-11-25"
+  },
+  "weakTopics": [
+    "dynamic-programming",
+    "graphs",
+    "bfs",
+    "dfs",
+    "trees",
+    "binary-search",
+    "two-pointers",
+    "sliding-window",
+    "backtracking",
+    "greedy",
+    "heap",
+    "trie",
+    "segment-tree",
+    "monotonic-stack",
+    "union-find",
+    "bit-manipulation"
+  ],
+  "lastUpdated": "2026-11-25T08:23:19.037Z"
+}

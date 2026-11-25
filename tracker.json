@@ -1,4 +1,10 @@
 {
+  "difficulty": {
+    "Easy": 1,
+    "Hard": 0,
+    "Medium": 0
+  },
+  "lastUpdated": "2026-11-25T08:26:22.745Z",
   "solves": [
     {
       "date": "2026-11-25",
@@ -16,19 +22,14 @@
       "path": "2026/11/2026-11-25_search-insert-position"
     }
   ],
+  "streak": {
+    "best": 1,
+    "current": 1,
+    "last_date": "2026-11-25"
+  },
   "topics": {
     "array": 1,
     "binary-search": 1
-  },
-  "difficulty": {
-    "Easy": 1,
-    "Medium": 0,
-    "Hard": 0
-  },
-  "streak": {
-    "current": 1,
-    "best": 1,
-    "last_date": "2026-11-25"
   },
   "weakTopics": [
     "dynamic-programming",
@@ -47,6 +48,5 @@
     "monotonic-stack",
     "union-find",
     "bit-manipulation"
-  ],
-  "lastUpdated": "2026-11-25T08:23:19.037Z"
+  ]
 }
